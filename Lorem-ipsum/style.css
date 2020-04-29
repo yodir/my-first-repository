@@ -1,0 +1,34 @@
+.tablazat{
+    border-width: 3px;
+border-color: gray;
+border-style: solid;
+width: 500px;
+margin: auto;
+}
+p{
+    width: 500px;
+    height: 2px;
+    background: gray;
+
+}
+
+.first:hover{
+    color: #ff0000;
+    background: orange;
+}
+.second:hover{
+    color: #ff0000;
+    background: green;
+}
+.third:hover{
+    color: #ff0000;
+    background:gray;
+}
+.fourth:hover{
+    color: #ff0000;
+    background:blue;
+}
+.fifth:hover{
+    color: #ff0000;
+    background:purple;
+}
