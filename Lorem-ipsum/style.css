@@ -13,11 +13,11 @@ p{
 }
 
 .first:hover{
-    color: #ff0000;
+    color: blue;
     background: orange;
 }
 .second:hover{
-    color: #ff0000;
+    color: rgb(204, 16, 157);
     background: green;
 }
 .third:hover{
